@@ -5,3 +5,5 @@ Set your goals and let vizion help you visualize them with your personalized vis
 - HTML
 - CSS
 - React
+- Bootstrap
+- Javascript
