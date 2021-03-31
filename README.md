@@ -3,4 +3,5 @@ Set your goals and let vizion help you visualize them with your personalized vis
 
 ## Technologies Used
 - HTML
-- 
+- CSS
+- React
